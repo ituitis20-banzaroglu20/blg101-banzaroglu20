@@ -1,1 +1,2 @@
 file is modified
+file.txt is modified under newbranch
